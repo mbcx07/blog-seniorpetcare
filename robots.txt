@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seniorpetcare.net/blog-seniorpetcare/sitemap.xml
